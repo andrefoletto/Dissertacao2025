@@ -1,0 +1,139 @@
+// EXPORTA MONITORES PERDAS TRANSFORMADORES ESTIMADOS
+
+export monitors 150CTISM1_PERDAS
+
+export monitors 150INCUB_PERDAS
+
+export monitors 225BANCOS_PERDAS
+
+export monitors 225CCS_PERDAS
+
+export monitors 150BIOEQ_PERDAS
+
+export monitors 150TEROC_PERDAS
+
+export monitors 150MEDIC_PERDAS
+
+export monitors 225NUDEMA_PERDAS
+
+export monitors 75MADAME_PERDAS
+
+export monitors 75RESIDUOS_PERDAS
+
+export monitors 300CEU2F_PERDAS
+
+export monitors 300CEU2E_PERDAS
+
+export monitors 300CEU2A_PERDAS
+
+export monitors 1125INDIGENA_PERDAS
+
+export monitors 75SOLOS_PERDAS
+
+export monitors 225DERCA_PERDAS
+
+export monitors 75ECUMENICO_PERDAS
+
+export monitors 150PARQUE1_PERDAS
+
+export monitors 1125PARQUE2_PERDAS
+
+export monitors 45REMATE_PERDAS
+
+export monitors 150PARQUE3_PERDAS
+
+export monitors 225AGITTEC_PERDAS
+
+export monitors 225REDEBIO_PERDAS
+
+export monitors 150MUSEU_PERDAS
+
+export monitors 225ARQUIT_PERDAS
+
+export monitors 225LMOT_PERDAS
+
+export monitors 150HANGAR_PERDAS
+
+export monitors 75NTE_PERDAS
+
+export monitors 150LMCC_PERDAS
+
+export monitors 500PAVCT_PERDAS
+
+export monitors 150ALMOX_PERDAS
+
+export monitors 1125NAPO1_PERDAS
+
+export monitors 225NAPO2_PERDAS
+
+export monitors 1125FATEC_PERDAS
+
+export monitors 150QPETR_PERDAS
+
+export monitors 225ACESS_PERDAS
+
+export monitors 75CEEMA_PERDAS
+
+export monitors 500P17_PERDAS
+
+export monitors 150GEOMAT_PERDAS
+
+export monitors 1125NIDAL_PERDAS
+
+export monitors 1125LETRAS_PERDAS
+
+export monitors 225DANCA_PERDAS
+
+export monitors 150MUSICA_PERDAS
+
+export monitors 1125BIOFLOR_PERDAS
+
+export monitors 225PLANET_PERDAS
+
+export monitors 150POLI2_PERDAS
+
+export monitors 1125POLI3_PERDAS
+
+export monitors 1125DESTIL_PERDAS
+
+export monitors 225COMUN_PERDAS
+
+export monitors 225HVU_PERDAS
+
+export monitors 225BIOT_PERDAS
+
+export monitors 45CETAS_PERDAS
+
+export monitors 150TAMBO_PERDAS
+
+export monitors 1125USINALATIC_PERDAS
+
+export monitors 150LARP_PERDAS
+
+export monitors 225MAN_PERDAS
+
+export monitors 75ENATURAL_PERDAS
+
+export monitors 75BOT1_PERDAS
+
+export monitors 75BOT2_PERDAS
+
+export monitors 75COXILHA_PERDAS
+
+export monitors 75GALPAO_PERDAS
+
+export monitors 150AVIARIO1_PERDAS
+
+export monitors 75RACOES_PERDAS
+
+export monitors 45AVIARIO2_PERDAS
+
+export monitors 1125ZOOTEC_PERDAS
+
+export monitors 1125PISCIC_PERDAS
+
+export monitors 75SUINOC_PERDAS
+
+export monitors 75POMAR_PERDAS
+
+export monitors 300BIOINS_PERDAS

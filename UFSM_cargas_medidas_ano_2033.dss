@@ -1,0 +1,117 @@
+// CARGAS MEDIDAS
+New loadshape.sm035_PQ_225FONO_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm035_PQ_225FONO_2025_225kVA_pu.csv
+New load.225FONO phases=3 model=1 bus=0382 kv=0.38 kw=225 conn=wye yearly=sm035_PQ_225FONO_2025_225kVA_pu
+
+New loadshape.sm058_PQ_500ODONTO_2025_500kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm058_PQ_500ODONTO_2025_500kVA_pu.csv
+New load.500ODONTO phases=3 model=1 bus=0502 kv=0.38 kw=500 conn=wye yearly=sm058_PQ_500ODONTO_2025_500kVA_pu
+
+New loadshape.sm057_PQ_500BIBC_2025_500kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm057_PQ_500BIBC_2025_500kVA_pu.csv
+New load.500BIBC phases=3 model=1 bus=0653 kv=0.38 kw=500 conn=wye yearly=sm057_PQ_500BIBC_2025_500kVA_pu
+
+New loadshape.sm136_PQ_750RU_2025_750kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm136_PQ_750RU_2025_750kVA_pu.csv
+New load.750RU phases=3 model=1 bus=0754 kv=0.38 kw=750 conn=wye yearly=sm136_PQ_750RU_2025_750kVA_pu
+
+New loadshape.sm039_PQ_300CEU2D_2025_300kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm039_PQ_300CEU2D_2025_300kVA_pu.csv
+New load.300CEU2D phases=3 model=1 bus=0982 kv=0.38 kw=300 conn=wye yearly=sm039_PQ_300CEU2D_2025_300kVA_pu
+
+New loadshape.sm029_PQ_300CEU2C_2025_300kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm029_PQ_300CEU2C_2025_300kVA_pu.csv
+New load.300CEU2C phases=3 model=1 bus=1032 kv=0.38 kw=300 conn=wye yearly=sm029_PQ_300CEU2C_2025_300kVA_pu
+
+New loadshape.sm040_PQ_300CEU2B_2025_300kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm040_PQ_300CEU2B_2025_300kVA_pu.csv
+New load.300CEU2B phases=3 model=1 bus=1082 kv=0.38 kw=300 conn=wye yearly=sm040_PQ_300CEU2B_2025_300kVA_pu
+
+New loadshape.sm046_PQ_225CEFD_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm046_PQ_225CEFD_2025_225kVA_pu.csv
+New load.225CEFD phases=3 model=1 bus=1322 kv=0.38 kw=225 conn=wye yearly=sm046_PQ_225CEFD_2025_225kVA_pu
+
+New loadshape.sm032_PQ_225CPD_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm032_PQ_225CPD_2025_225kVA_pu.csv
+New load.225CPD phases=3 model=1 bus=1444 kv=0.38 kw=225 conn=wye yearly=sm032_PQ_225CPD_2025_225kVA_pu
+
+New loadshape.sm055_PQ_500REITORIA_2025_500kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm055_PQ_500REITORIA_2025_500kVA_pu.csv
+New load.500REITORIA phases=3 model=1 bus=1454 kv=0.38 kw=500 conn=wye yearly=sm055_PQ_500REITORIA_2025_500kVA_pu
+
+New loadshape.sm050_PQ_500CONV1_2025_500kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm050_PQ_500CONV1_2025_500kVA_pu.csv
+New load.500CONV1 phases=3 model=1 bus=1524 kv=0.38 kw=500 conn=wye yearly=sm050_PQ_500CONV1_2025_500kVA_pu
+
+New loadshape.sm054_PQ_500CONV2_2025_500kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm054_PQ_500CONV2_2025_500kVA_pu.csv
+New load.500CONV2 phases=3 model=1 bus=1525 kv=0.38 kw=500 conn=wye yearly=sm054_PQ_500CONV2_2025_500kVA_pu
+
+New loadshape.sm043_PQ_225PISCINAS_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm043_PQ_225PISCINAS_2025_225kVA_pu.csv
+New load.225PISCINAS phases=3 model=1 bus=1602 kv=0.38 kw=225 conn=wye yearly=sm043_PQ_225PISCINAS_2025_225kVA_pu
+
+New loadshape.sm060_PQ_500GRAFICA_2025_500kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm060_PQ_500GRAFICA_2025_500kVA_pu.csv
+New load.500GRAFICA phases=3 model=1 bus=2023 kv=0.38 kw=500 conn=wye yearly=sm060_PQ_500GRAFICA_2025_500kVA_pu
+
+New loadshape.sm027_PQ_225CTISM2_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm027_PQ_225CTISM2_2025_225kVA_pu.csv
+New load.225CTISM2 phases=3 model=1 bus=2062 kv=0.38 kw=225 conn=wye yearly=sm027_PQ_225CTISM2_2025_225kVA_pu
+
+New loadshape.sm019_PQ_150INRI_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm019_PQ_150INRI_2025_150kVA_pu.csv
+New load.150INRI phases=3 model=1 bus=2133 kv=0.38 kw=150 conn=wye yearly=sm019_PQ_150INRI_2025_150kVA_pu
+
+New loadshape.sm025_PQ_750INPE_2025_750kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm025_PQ_750INPE_2025_750kVA_pu.csv
+New load.750INPE phases=3 model=1 bus=2247 kv=0.38 kw=750 conn=wye yearly=sm025_PQ_750INPE_2025_750kVA_pu
+
+New loadshape.sm016_PQ_150ENGQUIM_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm016_PQ_150ENGQUIM_2025_150kVA_pu.csv
+New load.150ENGQUIM phases=3 model=1 bus=2262 kv=0.38 kw=150 conn=wye yearly=sm016_PQ_150ENGQUIM_2025_150kVA_pu
+
+New loadshape.sm041_PQ_225HIDR_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm041_PQ_225HIDR_2025_225kVA_pu.csv
+New load.225HIDR phases=3 model=1 bus=2283 kv=0.38 kw=225 conn=wye yearly=sm041_PQ_225HIDR_2025_225kVA_pu
+
+New loadshape.sm003_PQ_225QUIMICA_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm003_PQ_225QUIMICA_2025_225kVA_pu.csv
+New load.225QUIMICA phases=3 model=1 bus=2347 kv=0.38 kw=225 conn=wye yearly=sm003_PQ_225QUIMICA_2025_225kVA_pu
+
+New loadshape.sm022_PQ_225CTC_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm022_PQ_225CTC_2025_225kVA_pu.csv
+New load.225CTC phases=3 model=1 bus=2358 kv=0.38 kw=225 conn=wye yearly=sm022_PQ_225CTC_2025_225kVA_pu
+
+New loadshape.sm023_PQ_225CCNE_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm023_PQ_225CCNE_2025_225kVA_pu.csv
+New load.225CCNE phases=3 model=1 bus=2364 kv=0.38 kw=225 conn=wye yearly=sm023_PQ_225CCNE_2025_225kVA_pu
+
+New loadshape.sm045_PQ_300CTEC_2025_300kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm045_PQ_300CTEC_2025_300kVA_pu.csv
+New load.300CTEC phases=3 model=1 bus=2369 kv=0.38 kw=300 conn=wye yearly=sm045_PQ_300CTEC_2025_300kVA_pu
+
+New loadshape.sm011_PQ_1125CE2_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm011_PQ_1125CE2_2025_112.5kVA_pu.csv
+New load.1125CE2 phases=3 model=1 bus=2372 kv=0.38 kw=112.5 conn=wye yearly=sm011_PQ_1125CE2_2025_112.5kVA_pu
+
+New loadshape.sm036_PQ_225RU2_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm036_PQ_225RU2_2025_225kVA_pu.csv
+New load.225RU2 phases=3 model=1 bus=2402 kv=0.38 kw=225 conn=wye yearly=sm036_PQ_225RU2_2025_225kVA_pu
+
+New loadshape.sm053_PQ_225CE1_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm053_PQ_225CE1_2025_225kVA_pu.csv
+New load.225CE1 phases=3 model=1 bus=2434 kv=0.38 kw=225 conn=wye yearly=sm053_PQ_225CE1_2025_225kVA_pu
+
+New loadshape.sm033_PQ_1125P21_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm033_PQ_1125P21_2025_112.5kVA_pu.csv
+New load.1125P21 phases=3 model=1 bus=2684 kv=0.38 kw=112.5 conn=wye yearly=sm033_PQ_1125P21_2025_112.5kVA_pu
+
+New loadshape.sm056_PQ_500P19_2025_500kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm056_PQ_500P19_2025_500kVA_pu.csv
+New load.500P19 phases=3 model=1 bus=2704 kv=0.38 kw=500 conn=wye yearly=sm056_PQ_500P19_2025_500kVA_pu
+
+New loadshape.sm051_PQ_500P18_2025_500kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm051_PQ_500P18_2025_500kVA_pu.csv
+New load.500P18 phases=3 model=1 bus=2714 kv=0.38 kw=500 conn=wye yearly=sm051_PQ_500P18_2025_500kVA_pu
+
+New loadshape.sm012_PQ_150DENDROL_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm012_PQ_150DENDROL_2025_150kVA_pu.csv
+New load.150DENDROL phases=3 model=1 bus=2772 kv=0.38 kw=150 conn=wye yearly=sm012_PQ_150DENDROL_2025_150kVA_pu
+
+New loadshape.sm021_PQ_300CCR2_2025_300kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm021_PQ_300CCR2_2025_300kVA_pu.csv
+New load.300CCR2 phases=3 model=1 bus=2794 kv=0.38 kw=300 conn=wye yearly=sm021_PQ_300CCR2_2025_300kVA_pu
+
+New loadshape.sm014_PQ_225LSOLOS_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm014_PQ_225LSOLOS_2025_225kVA_pu.csv
+New load.225LSOLOS phases=3 model=1 bus=2804 kv=0.38 kw=225 conn=wye yearly=sm014_PQ_225LSOLOS_2025_225kVA_pu
+
+New loadshape.sm059_PQ_500CCR1_2025_500kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm059_PQ_500CCR1_2025_500kVA_pu.csv
+New load.500CCR1 phases=3 model=1 bus=2824 kv=0.38 kw=500 conn=wye yearly=sm059_PQ_500CCR1_2025_500kVA_pu
+
+New loadshape.sm024_PQ_300CAL_2025_300kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm024_PQ_300CAL_2025_300kVA_pu.csv
+New load.300CAL phases=3 model=1 bus=2864 kv=0.38 kw=300 conn=wye yearly=sm024_PQ_300CAL_2025_300kVA_pu
+
+New loadshape.sm010_PQ_225CCSHC2_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm010_PQ_225CCSHC2_2025_225kVA_pu.csv
+New load.225CCSHC2 phases=3 model=1 bus=3024 kv=0.38 kw=225 conn=wye yearly=sm010_PQ_225CCSHC2_2025_225kVA_pu
+
+New loadshape.sm037_PQ_225CCSHC1_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm037_PQ_225CCSHC1_2025_225kVA_pu.csv
+New load.225CCSHC1 phases=3 model=1 bus=3103 kv=0.38 kw=225 conn=wye yearly=sm037_PQ_225CCSHC1_2025_225kVA_pu
+
+New loadshape.sm007_PQ_225CCSHB_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm007_PQ_225CCSHB_2025_225kVA_pu.csv
+New load.225CCSHB phases=3 model=1 bus=3113 kv=0.38 kw=225 conn=wye yearly=sm007_PQ_225CCSHB_2025_225kVA_pu
+
+New loadshape.sm042_PQ_225CCSHA_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm042_PQ_225CCSHA_2025_225kVA_pu.csv
+New load.225CCSHA phases=3 model=1 bus=3124 kv=0.38 kw=225 conn=wye yearly=sm042_PQ_225CCSHA_2025_225kVA_pu
+
+New loadshape.sm004_PQ_1125POLI1_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Medidas_ano_2033\sm004_PQ_1125POLI1_2025_112.5kVA_pu.csv
+New load.1125POLI1 phases=3 model=1 bus=4812 kv=0.38 kw=112.5 conn=wye yearly=sm004_PQ_1125POLI1_2025_112.5kVA_pu

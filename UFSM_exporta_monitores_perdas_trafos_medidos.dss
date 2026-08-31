@@ -1,0 +1,79 @@
+// EXPORTA MONITORES PERDAS TRANSFORMADORES MEDIDOS
+
+export monitors 225FONO_PERDAS
+
+export monitors 500ODONTO_PERDAS
+
+export monitors 500BIBC_PERDAS
+
+export monitors 750RU_PERDAS
+
+export monitors 300CEU2D_PERDAS
+
+export monitors 300CEU2C_PERDAS
+
+export monitors 300CEU2B_PERDAS
+
+export monitors 225CEFD_PERDAS
+
+export monitors 225CPD_PERDAS
+
+export monitors 500REITORIA_PERDAS
+
+export monitors 500CONV1_PERDAS
+
+export monitors 500CONV2_PERDAS
+
+export monitors 225PISCINAS_PERDAS
+
+export monitors 500GRAFICA_PERDAS
+
+export monitors 225CTISM2_PERDAS
+
+export monitors 150INRI_PERDAS
+
+export monitors 750INPE_PERDAS
+
+export monitors 150ENGQUIM_PERDAS
+
+export monitors 225HIDR_PERDAS
+
+export monitors 225QUIMICA_PERDAS
+
+export monitors 225CTC_PERDAS
+
+export monitors 225CCNE_PERDAS
+
+export monitors 300CTEC_PERDAS
+
+export monitors 1125CE2_PERDAS
+
+export monitors 225RU2_PERDAS
+
+export monitors 225CE1_PERDAS
+
+export monitors 1125P21_PERDAS
+
+export monitors 500P19_PERDAS
+
+export monitors 500P18_PERDAS
+
+export monitors 150DENDROL_PERDAS
+
+export monitors 300CCR2_PERDAS
+
+export monitors 225LSOLOS_PERDAS
+
+export monitors 500CCR1_PERDAS
+
+export monitors 300CAL_PERDAS
+
+export monitors 225CCSHC2_PERDAS
+
+export monitors 225CCSHC1_PERDAS
+
+export monitors 225CCSHB_PERDAS
+
+export monitors 225CCSHA_PERDAS
+
+export monitors 1125POLI1_PERDAS

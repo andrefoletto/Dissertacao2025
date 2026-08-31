@@ -1,0 +1,8 @@
+﻿Descricao,Valor
+kWh fornecido (EnergyMeter kWh),15968282.0
+kWh da carga (Zone kWh),14862811.0
+Zone losses (Zone Losses kWh),883842.0
+Perdas na linha MT (Line Losses kWh),25805.0
+Perdas nos trafos (Transformer Losses kWh),858050.0
+Perdas em vazio ferro (No Load Losses kWh),820567.0
+Perdas em carga cobre (Transformer - NoLoad) kWh,37483.0

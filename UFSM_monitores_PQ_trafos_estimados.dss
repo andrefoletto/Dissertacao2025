@@ -1,0 +1,139 @@
+// MONITORES PQ TRANSFORMADORES ESTIMADOS
+
+New monitor.150CTISM1_PQ element=transformer.150CTISM1 terminal=1 mode=1 ppolar=no
+
+New monitor.150INCUB_PQ element=transformer.150INCUB terminal=1 mode=1 ppolar=no
+
+New monitor.225BANCOS_PQ element=transformer.225BANCOS terminal=1 mode=1 ppolar=no
+
+New monitor.225CCS_PQ element=transformer.225CCS terminal=1 mode=1 ppolar=no
+
+New monitor.150BIOEQ_PQ element=transformer.150BIOEQ terminal=1 mode=1 ppolar=no
+
+New monitor.150TEROC_PQ element=transformer.150TEROC terminal=1 mode=1 ppolar=no
+
+New monitor.150MEDIC_PQ element=transformer.150MEDIC terminal=1 mode=1 ppolar=no
+
+New monitor.225NUDEMA_PQ element=transformer.225NUDEMA terminal=1 mode=1 ppolar=no
+
+New monitor.75MADAME_PQ element=transformer.75MADAME terminal=1 mode=1 ppolar=no
+
+New monitor.75RESIDUOS_PQ element=transformer.75RESIDUOS terminal=1 mode=1 ppolar=no
+
+New monitor.300CEU2F_PQ element=transformer.300CEU2F terminal=1 mode=1 ppolar=no
+
+New monitor.300CEU2E_PQ element=transformer.300CEU2E terminal=1 mode=1 ppolar=no
+
+New monitor.300CEU2A_PQ element=transformer.300CEU2A terminal=1 mode=1 ppolar=no
+
+New monitor.1125INDIGENA_PQ element=transformer.1125INDIGENA terminal=1 mode=1 ppolar=no
+
+New monitor.75SOLOS_PQ element=transformer.75SOLOS terminal=1 mode=1 ppolar=no
+
+New monitor.225DERCA_PQ element=transformer.225DERCA terminal=1 mode=1 ppolar=no
+
+New monitor.75ECUMENICO_PQ element=transformer.75ECUMENICO terminal=1 mode=1 ppolar=no
+
+New monitor.150PARQUE1_PQ element=transformer.150PARQUE1 terminal=1 mode=1 ppolar=no
+
+New monitor.1125PARQUE2_PQ element=transformer.1125PARQUE2 terminal=1 mode=1 ppolar=no
+
+New monitor.45REMATE_PQ element=transformer.45REMATE terminal=1 mode=1 ppolar=no
+
+New monitor.150PARQUE3_PQ element=transformer.150PARQUE3 terminal=1 mode=1 ppolar=no
+
+New monitor.225AGITTEC_PQ element=transformer.225AGITTEC terminal=1 mode=1 ppolar=no
+
+New monitor.225REDEBIO_PQ element=transformer.225REDEBIO terminal=1 mode=1 ppolar=no
+
+New monitor.150MUSEU_PQ element=transformer.150MUSEU terminal=1 mode=1 ppolar=no
+
+New monitor.225ARQUIT_PQ element=transformer.225ARQUIT terminal=1 mode=1 ppolar=no
+
+New monitor.225LMOT_PQ element=transformer.225LMOT terminal=1 mode=1 ppolar=no
+
+New monitor.150HANGAR_PQ element=transformer.150HANGAR terminal=1 mode=1 ppolar=no
+
+New monitor.75NTE_PQ element=transformer.75NTE terminal=1 mode=1 ppolar=no
+
+New monitor.150LMCC_PQ element=transformer.150LMCC terminal=1 mode=1 ppolar=no
+
+New monitor.500PAVCT_PQ element=transformer.500PAVCT terminal=1 mode=1 ppolar=no
+
+New monitor.150ALMOX_PQ element=transformer.150ALMOX terminal=1 mode=1 ppolar=no
+
+New monitor.1125NAPO1_PQ element=transformer.1125NAPO1 terminal=1 mode=1 ppolar=no
+
+New monitor.225NAPO2_PQ element=transformer.225NAPO2 terminal=1 mode=1 ppolar=no
+
+New monitor.1125FATEC_PQ element=transformer.1125FATEC terminal=1 mode=1 ppolar=no
+
+New monitor.150QPETR_PQ element=transformer.150QPETR terminal=1 mode=1 ppolar=no
+
+New monitor.225ACESS_PQ element=transformer.225ACESS terminal=1 mode=1 ppolar=no
+
+New monitor.75CEEMA_PQ element=transformer.75CEEMA terminal=1 mode=1 ppolar=no
+
+New monitor.500P17_PQ element=transformer.500P17 terminal=1 mode=1 ppolar=no
+
+New monitor.150GEOMAT_PQ element=transformer.150GEOMAT terminal=1 mode=1 ppolar=no
+
+New monitor.1125NIDAL_PQ element=transformer.1125NIDAL terminal=1 mode=1 ppolar=no
+
+New monitor.1125LETRAS_PQ element=transformer.1125LETRAS terminal=1 mode=1 ppolar=no
+
+New monitor.225DANCA_PQ element=transformer.225DANCA terminal=1 mode=1 ppolar=no
+
+New monitor.150MUSICA_PQ element=transformer.150MUSICA terminal=1 mode=1 ppolar=no
+
+New monitor.1125BIOFLOR_PQ element=transformer.1125BIOFLOR terminal=1 mode=1 ppolar=no
+
+New monitor.225PLANET_PQ element=transformer.225PLANET terminal=1 mode=1 ppolar=no
+
+New monitor.150POLI2_PQ element=transformer.150POLI2 terminal=1 mode=1 ppolar=no
+
+New monitor.1125POLI3_PQ element=transformer.1125POLI3 terminal=1 mode=1 ppolar=no
+
+New monitor.1125DESTIL_PQ element=transformer.1125DESTIL terminal=1 mode=1 ppolar=no
+
+New monitor.225COMUN_PQ element=transformer.225COMUN terminal=1 mode=1 ppolar=no
+
+New monitor.225HVU_PQ element=transformer.225HVU terminal=1 mode=1 ppolar=no
+
+New monitor.225BIOT_PQ element=transformer.225BIOT terminal=1 mode=1 ppolar=no
+
+New monitor.45CETAS_PQ element=transformer.45CETAS terminal=1 mode=1 ppolar=no
+
+New monitor.150TAMBO_PQ element=transformer.150TAMBO terminal=1 mode=1 ppolar=no
+
+New monitor.1125USINALATIC_PQ element=transformer.1125USINALATIC terminal=1 mode=1 ppolar=no
+
+New monitor.150LARP_PQ element=transformer.150LARP terminal=1 mode=1 ppolar=no
+
+New monitor.225MAN_PQ element=transformer.225MAN terminal=1 mode=1 ppolar=no
+
+New monitor.75ENATURAL_PQ element=transformer.75ENATURAL terminal=1 mode=1 ppolar=no
+
+New monitor.75BOT1_PQ element=transformer.75BOT1 terminal=1 mode=1 ppolar=no
+
+New monitor.75BOT2_PQ element=transformer.75BOT2 terminal=1 mode=1 ppolar=no
+
+New monitor.75COXILHA_PQ element=transformer.75COXILHA terminal=1 mode=1 ppolar=no
+
+New monitor.75GALPAO_PQ element=transformer.75GALPAO terminal=1 mode=1 ppolar=no
+
+New monitor.150AVIARIO1_PQ element=transformer.150AVIARIO1 terminal=1 mode=1 ppolar=no
+
+New monitor.75RACOES_PQ element=transformer.75RACOES terminal=1 mode=1 ppolar=no
+
+New monitor.45AVIARIO2_PQ element=transformer.45AVIARIO2 terminal=1 mode=1 ppolar=no
+
+New monitor.1125ZOOTEC_PQ element=transformer.1125ZOOTEC terminal=1 mode=1 ppolar=no
+
+New monitor.1125PISCIC_PQ element=transformer.1125PISCIC terminal=1 mode=1 ppolar=no
+
+New monitor.75SUINOC_PQ element=transformer.75SUINOC terminal=1 mode=1 ppolar=no
+
+New monitor.75POMAR_PQ element=transformer.75POMAR terminal=1 mode=1 ppolar=no
+
+New monitor.300BIOINS_PQ element=transformer.300BIOINS terminal=1 mode=1 ppolar=no

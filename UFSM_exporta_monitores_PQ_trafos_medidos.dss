@@ -1,0 +1,79 @@
+// EXPORTA MONITORES PQ TRANSFORMADORES MEDIDOS
+
+export monitors 225FONO_PQ
+
+export monitors 500ODONTO_PQ
+
+export monitors 500BIBC_PQ
+
+export monitors 750RU_PQ
+
+export monitors 300CEU2D_PQ
+
+export monitors 300CEU2C_PQ
+
+export monitors 300CEU2B_PQ
+
+export monitors 225CEFD_PQ
+
+export monitors 225CPD_PQ
+
+export monitors 500REITORIA_PQ
+
+export monitors 500CONV1_PQ
+
+export monitors 500CONV2_PQ
+
+export monitors 225PISCINAS_PQ
+
+export monitors 500GRAFICA_PQ
+
+export monitors 225CTISM2_PQ
+
+export monitors 150INRI_PQ
+
+export monitors 750INPE_PQ
+
+export monitors 150ENGQUIM_PQ
+
+export monitors 225HIDR_PQ
+
+export monitors 225QUIMICA_PQ
+
+export monitors 225CTC_PQ
+
+export monitors 225CCNE_PQ
+
+export monitors 300CTEC_PQ
+
+export monitors 1125CE2_PQ
+
+export monitors 225RU2_PQ
+
+export monitors 225CE1_PQ
+
+export monitors 1125P21_PQ
+
+export monitors 500P19_PQ
+
+export monitors 500P18_PQ
+
+export monitors 150DENDROL_PQ
+
+export monitors 300CCR2_PQ
+
+export monitors 225LSOLOS_PQ
+
+export monitors 500CCR1_PQ
+
+export monitors 300CAL_PQ
+
+export monitors 225CCSHC2_PQ
+
+export monitors 225CCSHC1_PQ
+
+export monitors 225CCSHB_PQ
+
+export monitors 225CCSHA_PQ
+
+export monitors 1125POLI1_PQ

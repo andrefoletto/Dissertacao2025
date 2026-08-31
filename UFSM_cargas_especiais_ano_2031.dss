@@ -1,0 +1,24 @@
+// CARGAS ESPECIAIS
+New loadshape.sm251_PQ_45PONTE_2025_45kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Especiais_ano_2031\sm251_PQ_45PONTE_2025_45kVA_pu.csv
+New load.45PONTE phases=3 model=1 bus=0712 kv=0.38 kw=45 conn=wye yearly=sm251_PQ_45PONTE_2025_45kVA_pu
+
+New loadshape.sm254_PQ_75VE1_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Especiais_ano_2031\sm254_PQ_75VE1_2025_75kVA_pu.csv
+New load.75VE1 phases=3 model=1 bus=2162 kv=0.38 kw=75 conn=wye yearly=sm254_PQ_75VE1_2025_75kVA_pu
+
+New loadshape.sm255_PQ_75VE2_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Especiais_ano_2031\sm255_PQ_75VE2_2025_75kVA_pu.csv
+New load.75VE2 phases=3 model=1 bus=2192 kv=0.38 kw=75 conn=wye yearly=sm255_PQ_75VE2_2025_75kVA_pu
+
+New loadshape.sm256_PQ_45IRRIGA_2025_45kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Especiais_ano_2031\sm256_PQ_45IRRIGA_2025_45kVA_pu.csv
+New load.45IRRIGA phases=3 model=1 bus=3662 kv=0.38 kw=45 conn=wye yearly=sm256_PQ_45IRRIGA_2025_45kVA_pu
+
+New loadshape.sm253_PQ_30POCO1_2025_30kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Especiais_ano_2031\sm253_PQ_30POCO1_2025_30kVA_pu.csv
+New load.30POCO1 phases=3 model=1 bus=3902 kv=0.38 kw=30 conn=wye yearly=sm253_PQ_30POCO1_2025_30kVA_pu
+
+New loadshape.sm252_PQ_45POCO2_2025_45kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Especiais_ano_2031\sm252_PQ_45POCO2_2025_45kVA_pu.csv
+New load.45POCO2 phases=3 model=1 bus=3942 kv=0.38 kw=45 conn=wye yearly=sm252_PQ_45POCO2_2025_45kVA_pu
+
+New loadshape.sm257_PQ_45PIVO_2025_45kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Especiais_ano_2031\sm257_PQ_45PIVO_2025_45kVA_pu.csv
+New load.45PIVO phases=3 model=1 bus=4442 kv=0.38 kw=45 conn=wye yearly=sm257_PQ_45PIVO_2025_45kVA_pu
+
+New loadshape.sm250_PQ_1125ANTENA_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Especiais_ano_2031\sm250_PQ_1125ANTENA_2025_112.5kVA_pu.csv
+New load.1125ANTENA phases=3 model=1 bus=4792 kv=0.38 kw=112.5 conn=wye yearly=sm250_PQ_1125ANTENA_2025_112.5kVA_pu

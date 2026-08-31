@@ -1,0 +1,139 @@
+// MONITORES PERDAS TRANSFORMADORES ESTIMADOS
+
+New monitor.150CTISM1_PERDAS element=transformer.150CTISM1 terminal=1 mode=9
+
+New monitor.150INCUB_PERDAS element=transformer.150INCUB terminal=1 mode=9
+
+New monitor.225BANCOS_PERDAS element=transformer.225BANCOS terminal=1 mode=9
+
+New monitor.225CCS_PERDAS element=transformer.225CCS terminal=1 mode=9
+
+New monitor.150BIOEQ_PERDAS element=transformer.150BIOEQ terminal=1 mode=9
+
+New monitor.150TEROC_PERDAS element=transformer.150TEROC terminal=1 mode=9
+
+New monitor.150MEDIC_PERDAS element=transformer.150MEDIC terminal=1 mode=9
+
+New monitor.225NUDEMA_PERDAS element=transformer.225NUDEMA terminal=1 mode=9
+
+New monitor.75MADAME_PERDAS element=transformer.75MADAME terminal=1 mode=9
+
+New monitor.75RESIDUOS_PERDAS element=transformer.75RESIDUOS terminal=1 mode=9
+
+New monitor.300CEU2F_PERDAS element=transformer.300CEU2F terminal=1 mode=9
+
+New monitor.300CEU2E_PERDAS element=transformer.300CEU2E terminal=1 mode=9
+
+New monitor.300CEU2A_PERDAS element=transformer.300CEU2A terminal=1 mode=9
+
+New monitor.1125INDIGENA_PERDAS element=transformer.1125INDIGENA terminal=1 mode=9
+
+New monitor.75SOLOS_PERDAS element=transformer.75SOLOS terminal=1 mode=9
+
+New monitor.225DERCA_PERDAS element=transformer.225DERCA terminal=1 mode=9
+
+New monitor.75ECUMENICO_PERDAS element=transformer.75ECUMENICO terminal=1 mode=9
+
+New monitor.150PARQUE1_PERDAS element=transformer.150PARQUE1 terminal=1 mode=9
+
+New monitor.1125PARQUE2_PERDAS element=transformer.1125PARQUE2 terminal=1 mode=9
+
+New monitor.45REMATE_PERDAS element=transformer.45REMATE terminal=1 mode=9
+
+New monitor.150PARQUE3_PERDAS element=transformer.150PARQUE3 terminal=1 mode=9
+
+New monitor.225AGITTEC_PERDAS element=transformer.225AGITTEC terminal=1 mode=9
+
+New monitor.225REDEBIO_PERDAS element=transformer.225REDEBIO terminal=1 mode=9
+
+New monitor.150MUSEU_PERDAS element=transformer.150MUSEU terminal=1 mode=9
+
+New monitor.225ARQUIT_PERDAS element=transformer.225ARQUIT terminal=1 mode=9
+
+New monitor.225LMOT_PERDAS element=transformer.225LMOT terminal=1 mode=9
+
+New monitor.150HANGAR_PERDAS element=transformer.150HANGAR terminal=1 mode=9
+
+New monitor.75NTE_PERDAS element=transformer.75NTE terminal=1 mode=9
+
+New monitor.150LMCC_PERDAS element=transformer.150LMCC terminal=1 mode=9
+
+New monitor.500PAVCT_PERDAS element=transformer.500PAVCT terminal=1 mode=9
+
+New monitor.150ALMOX_PERDAS element=transformer.150ALMOX terminal=1 mode=9
+
+New monitor.1125NAPO1_PERDAS element=transformer.1125NAPO1 terminal=1 mode=9
+
+New monitor.225NAPO2_PERDAS element=transformer.225NAPO2 terminal=1 mode=9
+
+New monitor.1125FATEC_PERDAS element=transformer.1125FATEC terminal=1 mode=9
+
+New monitor.150QPETR_PERDAS element=transformer.150QPETR terminal=1 mode=9
+
+New monitor.225ACESS_PERDAS element=transformer.225ACESS terminal=1 mode=9
+
+New monitor.75CEEMA_PERDAS element=transformer.75CEEMA terminal=1 mode=9
+
+New monitor.500P17_PERDAS element=transformer.500P17 terminal=1 mode=9
+
+New monitor.150GEOMAT_PERDAS element=transformer.150GEOMAT terminal=1 mode=9
+
+New monitor.1125NIDAL_PERDAS element=transformer.1125NIDAL terminal=1 mode=9
+
+New monitor.1125LETRAS_PERDAS element=transformer.1125LETRAS terminal=1 mode=9
+
+New monitor.225DANCA_PERDAS element=transformer.225DANCA terminal=1 mode=9
+
+New monitor.150MUSICA_PERDAS element=transformer.150MUSICA terminal=1 mode=9
+
+New monitor.1125BIOFLOR_PERDAS element=transformer.1125BIOFLOR terminal=1 mode=9
+
+New monitor.225PLANET_PERDAS element=transformer.225PLANET terminal=1 mode=9
+
+New monitor.150POLI2_PERDAS element=transformer.150POLI2 terminal=1 mode=9
+
+New monitor.1125POLI3_PERDAS element=transformer.1125POLI3 terminal=1 mode=9
+
+New monitor.1125DESTIL_PERDAS element=transformer.1125DESTIL terminal=1 mode=9
+
+New monitor.225COMUN_PERDAS element=transformer.225COMUN terminal=1 mode=9
+
+New monitor.225HVU_PERDAS element=transformer.225HVU terminal=1 mode=9
+
+New monitor.225BIOT_PERDAS element=transformer.225BIOT terminal=1 mode=9
+
+New monitor.45CETAS_PERDAS element=transformer.45CETAS terminal=1 mode=9
+
+New monitor.150TAMBO_PERDAS element=transformer.150TAMBO terminal=1 mode=9
+
+New monitor.1125USINALATIC_PERDAS element=transformer.1125USINALATIC terminal=1 mode=9
+
+New monitor.150LARP_PERDAS element=transformer.150LARP terminal=1 mode=9
+
+New monitor.225MAN_PERDAS element=transformer.225MAN terminal=1 mode=9
+
+New monitor.75ENATURAL_PERDAS element=transformer.75ENATURAL terminal=1 mode=9
+
+New monitor.75BOT1_PERDAS element=transformer.75BOT1 terminal=1 mode=9
+
+New monitor.75BOT2_PERDAS element=transformer.75BOT2 terminal=1 mode=9
+
+New monitor.75COXILHA_PERDAS element=transformer.75COXILHA terminal=1 mode=9
+
+New monitor.75GALPAO_PERDAS element=transformer.75GALPAO terminal=1 mode=9
+
+New monitor.150AVIARIO1_PERDAS element=transformer.150AVIARIO1 terminal=1 mode=9
+
+New monitor.75RACOES_PERDAS element=transformer.75RACOES terminal=1 mode=9
+
+New monitor.45AVIARIO2_PERDAS element=transformer.45AVIARIO2 terminal=1 mode=9
+
+New monitor.1125ZOOTEC_PERDAS element=transformer.1125ZOOTEC terminal=1 mode=9
+
+New monitor.1125PISCIC_PERDAS element=transformer.1125PISCIC terminal=1 mode=9
+
+New monitor.75SUINOC_PERDAS element=transformer.75SUINOC terminal=1 mode=9
+
+New monitor.75POMAR_PERDAS element=transformer.75POMAR terminal=1 mode=9
+
+New monitor.300BIOINS_PERDAS element=transformer.300BIOINS terminal=1 mode=9

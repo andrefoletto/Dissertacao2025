@@ -1,0 +1,137 @@
+// EXPORTA MONITORES PQ TRANSFORMADORES ESTIMADOS
+
+export monitors 150CTISM1_PQ
+
+export monitors 150INCUB_PQ
+
+export monitors 225BANCOS_PQ
+
+export monitors 225CCS_PQ
+
+export monitors 150BIOEQ_PQ
+
+export monitors 150TEROC_PQ
+
+export monitors 150MEDIC_PQ
+
+export monitors 225NUDEMA_PQ
+
+export monitors 75MADAME_PQ
+
+export monitors 75RESIDUOS_PQ
+
+export monitors 300CEU2F_PQ
+
+export monitors 300CEU2E_PQ
+
+export monitors 300CEU2A_PQ
+
+export monitors 1125INDIGENA_PQ
+
+export monitors 75SOLOS_PQ
+
+export monitors 225DERCA_PQ
+
+export monitors 75ECUMENICO_PQ
+
+export monitors 150PARQUE1_PQ
+
+export monitors 1125PARQUE2_PQ
+
+export monitors 45REMATE_PQ
+
+export monitors 150PARQUE3_PQ
+
+export monitors 225AGITTEC_PQ
+
+export monitors 225REDEBIO_PQ
+
+export monitors 150MUSEU_PQ
+
+export monitors 225ARQUIT_PQ
+
+export monitors 225LMOT_PQ
+
+export monitors 150HANGAR_PQ
+
+export monitors 75NTE_PQ
+
+export monitors 150LMCC_PQ
+
+export monitors 500PAVCT_PQ
+
+export monitors 150ALMOX_PQ
+
+export monitors 1125NAPO1_PQ
+
+export monitors 225NAPO2_PQ
+
+export monitors 1125FATEC_PQ
+
+export monitors 150QPETR_PQ
+
+export monitors 225ACESS_PQ
+
+export monitors 75CEEMA_PQ
+
+export monitors 500P17_PQ
+
+export monitors 150GEOMAT_PQ
+
+export monitors 1125NIDAL_PQ
+
+export monitors 1125LETRAS_PQ
+
+export monitors 225DANCA_PQ
+
+export monitors 150MUSICA_PQ
+
+export monitors 1125BIOFLOR_PQ
+
+export monitors 225PLANET_PQ
+
+export monitors 150POLI2_PQ
+
+export monitors 1125POLI3_PQ
+
+export monitors 1125DESTIL_PQ
+
+export monitors 225COMUN_PQ
+
+export monitors 225HVU_PQ
+
+export monitors 45CETAS_PQ
+
+export monitors 150TAMBO_PQ
+
+export monitors 1125USINALATIC_PQ
+
+export monitors 150LARP_PQ
+
+export monitors 225MAN_PQ
+
+export monitors 75ENATURAL_PQ
+
+export monitors 75BOT1_PQ
+
+export monitors 75BOT2_PQ
+
+export monitors 75COXILHA_PQ
+
+export monitors 75GALPAO_PQ
+
+export monitors 150AVIARIO1_PQ
+
+export monitors 75RACOES_PQ
+
+export monitors 45AVIARIO2_PQ
+
+export monitors 1125ZOOTEC_PQ
+
+export monitors 1125PISCIC_PQ
+
+export monitors 75SUINOC_PQ
+
+export monitors 75POMAR_PQ
+
+export monitors 300BIOINS_PQ

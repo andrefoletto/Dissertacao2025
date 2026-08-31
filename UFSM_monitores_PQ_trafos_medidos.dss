@@ -1,0 +1,79 @@
+// MONITORES PQ TRANSFORMADORES MEDIDOS
+
+New monitor.225FONO_PQ element=transformer.225FONO terminal=1 mode=1 ppolar=no
+
+New monitor.500ODONTO_PQ element=transformer.500ODONTO terminal=1 mode=1 ppolar=no
+
+New monitor.500BIBC_PQ element=transformer.500BIBC terminal=1 mode=1 ppolar=no
+
+New monitor.750RU_PQ element=transformer.750RU terminal=1 mode=1 ppolar=no
+
+New monitor.300CEU2D_PQ element=transformer.300CEU2D terminal=1 mode=1 ppolar=no
+
+New monitor.300CEU2C_PQ element=transformer.300CEU2C terminal=1 mode=1 ppolar=no
+
+New monitor.300CEU2B_PQ element=transformer.300CEU2B terminal=1 mode=1 ppolar=no
+
+New monitor.225CEFD_PQ element=transformer.225CEFD terminal=1 mode=1 ppolar=no
+
+New monitor.225CPD_PQ element=transformer.225CPD terminal=1 mode=1 ppolar=no
+
+New monitor.500REITORIA_PQ element=transformer.500REITORIA terminal=1 mode=1 ppolar=no
+
+New monitor.500CONV1_PQ element=transformer.500CONV1 terminal=1 mode=1 ppolar=no
+
+New monitor.500CONV2_PQ element=transformer.500CONV2 terminal=1 mode=1 ppolar=no
+
+New monitor.225PISCINAS_PQ element=transformer.225PISCINAS terminal=1 mode=1 ppolar=no
+
+New monitor.500GRAFICA_PQ element=transformer.500GRAFICA terminal=1 mode=1 ppolar=no
+
+New monitor.225CTISM2_PQ element=transformer.225CTISM2 terminal=1 mode=1 ppolar=no
+
+New monitor.150INRI_PQ element=transformer.150INRI terminal=1 mode=1 ppolar=no
+
+New monitor.750INPE_PQ element=transformer.750INPE terminal=1 mode=1 ppolar=no
+
+New monitor.150ENGQUIM_PQ element=transformer.150ENGQUIM terminal=1 mode=1 ppolar=no
+
+New monitor.225HIDR_PQ element=transformer.225HIDR terminal=1 mode=1 ppolar=no
+
+New monitor.225QUIMICA_PQ element=transformer.225QUIMICA terminal=1 mode=1 ppolar=no
+
+New monitor.225CTC_PQ element=transformer.225CTC terminal=1 mode=1 ppolar=no
+
+New monitor.225CCNE_PQ element=transformer.225CCNE terminal=1 mode=1 ppolar=no
+
+New monitor.300CTEC_PQ element=transformer.300CTEC terminal=1 mode=1 ppolar=no
+
+New monitor.1125CE2_PQ element=transformer.1125CE2 terminal=1 mode=1 ppolar=no
+
+New monitor.225RU2_PQ element=transformer.225RU2 terminal=1 mode=1 ppolar=no
+
+New monitor.225CE1_PQ element=transformer.225CE1 terminal=1 mode=1 ppolar=no
+
+New monitor.1125P21_PQ element=transformer.1125P21 terminal=1 mode=1 ppolar=no
+
+New monitor.500P19_PQ element=transformer.500P19 terminal=1 mode=1 ppolar=no
+
+New monitor.500P18_PQ element=transformer.500P18 terminal=1 mode=1 ppolar=no
+
+New monitor.150DENDROL_PQ element=transformer.150DENDROL terminal=1 mode=1 ppolar=no
+
+New monitor.300CCR2_PQ element=transformer.300CCR2 terminal=1 mode=1 ppolar=no
+
+New monitor.225LSOLOS_PQ element=transformer.225LSOLOS terminal=1 mode=1 ppolar=no
+
+New monitor.500CCR1_PQ element=transformer.500CCR1 terminal=1 mode=1 ppolar=no
+
+New monitor.300CAL_PQ element=transformer.300CAL terminal=1 mode=1 ppolar=no
+
+New monitor.225CCSHC2_PQ element=transformer.225CCSHC2 terminal=1 mode=1 ppolar=no
+
+New monitor.225CCSHC1_PQ element=transformer.225CCSHC1 terminal=1 mode=1 ppolar=no
+
+New monitor.225CCSHB_PQ element=transformer.225CCSHB terminal=1 mode=1 ppolar=no
+
+New monitor.225CCSHA_PQ element=transformer.225CCSHA terminal=1 mode=1 ppolar=no
+
+New monitor.1125POLI1_PQ element=transformer.1125POLI1 terminal=1 mode=1 ppolar=no

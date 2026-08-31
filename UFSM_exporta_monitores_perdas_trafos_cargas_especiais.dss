@@ -1,0 +1,17 @@
+// EXPORTA MONITORES PERDAS TRANSFORMADORES CARGAS ESPECIAIS
+
+export monitors 45PONTE_PERDAS
+
+export monitors 75VE1_PERDAS
+
+export monitors 75VE2_PERDAS
+
+export monitors 45IRRIGA_PERDAS
+
+export monitors 30POCO1_PERDAS
+
+export monitors 45POCO2_PERDAS
+
+export monitors 45PIVO_PERDAS
+
+export monitors 1125ANTENA_PERDAS

@@ -1,0 +1,208 @@
+// CARGAS ESTIMADAS COM RESIDUO
+
+New loadshape.sm017_PQ_150CTISM1_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm017_PQ_150CTISM1_2025_150kVA_com_residuo_pu.csv
+New load.150CTISM1 phases=3 model=1 bus=0032 kv=0.38 kw=150 conn=wye yearly=sm017_PQ_150CTISM1_2025_150kVA_pu
+
+New loadshape.sm230_PQ_150INCUB_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm230_PQ_150INCUB_2025_150kVA_com_residuo_pu.csv
+New load.150INCUB phases=3 model=1 bus=0062 kv=0.38 kw=150 conn=wye yearly=sm230_PQ_150INCUB_2025_150kVA_pu
+
+New loadshape.sm239_PQ_225BANCOS_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm239_PQ_225BANCOS_2025_225kVA_com_residuo_pu.csv
+New load.225BANCOS phases=3 model=1 bus=0112 kv=0.38 kw=225 conn=wye yearly=sm239_PQ_225BANCOS_2025_225kVA_pu
+
+New loadshape.sm048_PQ_225CCS_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm048_PQ_225CCS_2025_225kVA_com_residuo_pu.csv
+New load.225CCS phases=3 model=1 bus=0202 kv=0.38 kw=225 conn=wye yearly=sm048_PQ_225CCS_2025_225kVA_pu
+
+New loadshape.sm210_PQ_150BIOEQ_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm210_PQ_150BIOEQ_2025_150kVA_com_residuo_pu.csv
+New load.150BIOEQ phases=3 model=1 bus=0361 kv=0.38 kw=150 conn=wye yearly=sm210_PQ_150BIOEQ_2025_150kVA_pu
+
+New loadshape.sm026_PQ_150TEROC_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm026_PQ_150TEROC_2025_150kVA_com_residuo_pu.csv
+New load.150TEROC phases=3 model=1 bus=0412 kv=0.38 kw=150 conn=wye yearly=sm026_PQ_150TEROC_2025_150kVA_pu
+
+New loadshape.sm224_PQ_150MEDIC_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm224_PQ_150MEDIC_2025_150kVA_com_residuo_pu.csv
+New load.150MEDIC phases=3 model=1 bus=0432 kv=0.38 kw=150 conn=wye yearly=sm224_PQ_150MEDIC_2025_150kVA_pu
+
+New loadshape.sm202_PQ_225NUDEMA_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm202_PQ_225NUDEMA_2025_225kVA_com_residuo_pu.csv
+New load.225NUDEMA phases=3 model=1 bus=0482 kv=0.38 kw=225 conn=wye yearly=sm202_PQ_225NUDEMA_2025_225kVA_pu
+
+New loadshape.sm246_PQ_75MADAME_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm246_PQ_75MADAME_2025_75kVA_com_residuo_pu.csv
+New load.75MADAME phases=3 model=1 bus=0552 kv=0.38 kw=75 conn=wye yearly=sm246_PQ_75MADAME_2025_75kVA_pu
+
+New loadshape.sm242_PQ_75RESIDUOS_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm242_PQ_75RESIDUOS_2025_75kVA_com_residuo_pu.csv
+New load.75RESIDUOS phases=3 model=1 bus=0622 kv=0.38 kw=75 conn=wye yearly=sm242_PQ_75RESIDUOS_2025_75kVA_pu
+
+New loadshape.sm201_PQ_300CEU2F_2025_300kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm201_PQ_300CEU2F_2025_300kVA_com_residuo_pu.csv
+New load.300CEU2F phases=3 model=1 bus=0862 kv=0.38 kw=300 conn=wye yearly=sm201_PQ_300CEU2F_2025_300kVA_pu
+
+New loadshape.sm044_PQ_300CEU2E_2025_300kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm044_PQ_300CEU2E_2025_300kVA_com_residuo_pu.csv
+New load.300CEU2E phases=3 model=1 bus=0942 kv=0.38 kw=300 conn=wye yearly=sm044_PQ_300CEU2E_2025_300kVA_pu
+
+New loadshape.sm030_PQ_300CEU2A_2025_300kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm030_PQ_300CEU2A_2025_300kVA_com_residuo_pu.csv
+New load.300CEU2A phases=3 model=1 bus=1092 kv=0.38 kw=300 conn=wye yearly=sm030_PQ_300CEU2A_2025_300kVA_pu
+
+New loadshape.sm002_PQ_1125INDIGENA_2025_300kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm002_PQ_1125INDIGENA_2025_300kVA_com_residuo_pu.csv
+New load.1125INDIGENA phases=3 model=1 bus=1202 kv=0.38 kw=112.5 conn=wye yearly=sm002_PQ_1125INDIGENA_2025_300kVA_pu
+
+New loadshape.sm009_PQ_75SOLOS_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm009_PQ_75SOLOS_2025_75kVA_com_residuo_pu.csv
+New load.75SOLOS phases=3 model=1 bus=1242 kv=0.38 kw=75 conn=wye yearly=sm009_PQ_75SOLOS_2025_75kVA_pu
+
+New loadshape.sm232_PQ_225DERCA_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm232_PQ_225DERCA_2025_225kVA_com_residuo_pu.csv
+New load.225DERCA phases=3 model=1 bus=1401 kv=0.38 kw=225 conn=wye yearly=sm232_PQ_225DERCA_2025_225kVA_pu
+
+New loadshape.sm237_PQ_75ECUMENICO_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm237_PQ_75ECUMENICO_2025_75kVA_com_residuo_pu.csv
+New load.75ECUMENICO phases=3 model=1 bus=1532 kv=0.38 kw=75 conn=wye yearly=sm237_PQ_75ECUMENICO_2025_75kVA_pu
+
+New loadshape.sm234_PQ_150PARQUE1_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm234_PQ_150PARQUE1_2025_150kVA_com_residuo_pu.csv
+New load.150PARQUE1 phases=3 model=1 bus=1702 kv=0.38 kw=150 conn=wye yearly=sm234_PQ_150PARQUE1_2025_150kVA_pu
+
+New loadshape.sm132_PQ_1125PARQUE2_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm132_PQ_1125PARQUE2_2025_112.5kVA_com_residuo_pu.csv
+New load.1125PARQUE2 phases=3 model=1 bus=1782 kv=0.38 kw=112.5 conn=wye yearly=sm132_PQ_1125PARQUE2_2025_112.5kVA_pu
+
+New loadshape.sm236_PQ_45REMATE_2025_45kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm236_PQ_45REMATE_2025_45kVA_com_residuo_pu.csv
+New load.45REMATE phases=3 model=1 bus=1832 kv=0.38 kw=45 conn=wye yearly=sm236_PQ_45REMATE_2025_45kVA_pu
+
+New loadshape.sm203_PQ_150PARQUE3_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm203_PQ_150PARQUE3_2025_150kVA_com_residuo_pu.csv
+New load.150PARQUE3 phases=3 model=1 bus=1852 kv=0.38 kw=150 conn=wye yearly=sm203_PQ_150PARQUE3_2025_150kVA_pu
+
+New loadshape.sm031_PQ_225AGITTEC_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm031_PQ_225AGITTEC_2025_225kVA_com_residuo_pu.csv
+New load.225AGITTEC phases=3 model=1 bus=1882 kv=0.38 kw=225 conn=wye yearly=sm031_PQ_225AGITTEC_2025_225kVA_pu
+
+New loadshape.sm047_PQ_225REDEBIO_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm047_PQ_225REDEBIO_2025_225kVA_com_residuo_pu.csv
+New load.225REDEBIO phases=3 model=1 bus=1922 kv=0.38 kw=225 conn=wye yearly=sm047_PQ_225REDEBIO_2025_225kVA_pu
+
+New loadshape.sm225_PQ_150MUSEU_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm225_PQ_150MUSEU_2025_150kVA_com_residuo_pu.csv
+New load.150MUSEU phases=3 model=1 bus=1982 kv=0.38 kw=150 conn=wye yearly=sm225_PQ_150MUSEU_2025_150kVA_pu
+
+New loadshape.sm220_PQ_225ARQUIT_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm220_PQ_225ARQUIT_2025_225kVA_com_residuo_pu.csv
+New load.225ARQUIT phases=3 model=1 bus=2212 kv=0.38 kw=225 conn=wye yearly=sm220_PQ_225ARQUIT_2025_225kVA_pu
+
+New loadshape.sm219_PQ_225LMOT_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm219_PQ_225LMOT_2025_225kVA_com_residuo_pu.csv
+New load.225LMOT phases=3 model=1 bus=2112 kv=0.38 kw=225 conn=wye yearly=sm219_PQ_225LMOT_2025_225kVA_pu
+
+New loadshape.sm217_PQ_150HANGAR_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm217_PQ_150HANGAR_2025_150kVA_com_residuo_pu.csv
+New load.150HANGAR phases=3 model=1 bus=2142 kv=0.38 kw=150 conn=wye yearly=sm217_PQ_150HANGAR_2025_150kVA_pu
+
+New loadshape.sm233_PQ_75NTE_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm233_PQ_75NTE_2025_75kVA_com_residuo_pu.csv
+New load.75NTE phases=3 model=1 bus=2252 kv=0.38 kw=75 conn=wye yearly=sm233_PQ_75NTE_2025_75kVA_pu
+
+New loadshape.sm218_PQ_150LMCC_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm218_PQ_150LMCC_2025_150kVA_com_residuo_pu.csv
+New load.150LMCC phases=3 model=1 bus=2321 kv=0.38 kw=150 conn=wye yearly=sm218_PQ_150LMCC_2025_150kVA_pu
+
+New loadshape.sm215_PQ_500PAVCT_2025_500kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm215_PQ_500PAVCT_2025_500kVA_com_residuo_pu.csv
+New load.500PAVCT phases=3 model=1 bus=2354 kv=0.38 kw=500 conn=wye yearly=sm215_PQ_500PAVCT_2025_500kVA_pu
+
+New loadshape.sm241_PQ_150ALMOX_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm241_PQ_150ALMOX_2025_150kVA_com_residuo_pu.csv
+New load.150ALMOX phases=3 model=1 bus=2463 kv=0.38 kw=150 conn=wye yearly=sm241_PQ_150ALMOX_2025_150kVA_pu
+
+New loadshape.sm008_PQ_1125NAPO1_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm008_PQ_1125NAPO1_2025_112.5kVA_com_residuo_pu.csv
+New load.1125NAPO1 phases=3 model=1 bus=2502 kv=0.38 kw=112.5 conn=wye yearly=sm008_PQ_1125NAPO1_2025_112.5kVA_pu
+
+New loadshape.sm212_PQ_225NAPO2_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm212_PQ_225NAPO2_2025_225kVA_com_residuo_pu.csv
+New load.225NAPO2 phases=3 model=1 bus=2542 kv=0.38 kw=225 conn=wye yearly=sm212_PQ_225NAPO2_2025_225kVA_pu
+
+New loadshape.sm229_PQ_1125FATEC_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm229_PQ_1125FATEC_2025_112.5kVA_com_residuo_pu.csv
+New load.1125FATEC phases=3 model=1 bus=2572 kv=0.38 kw=112.5 conn=wye yearly=sm229_PQ_1125FATEC_2025_112.5kVA_pu
+
+New loadshape.sm211_PQ_150QPETR_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm211_PQ_150QPETR_2025_150kVA_com_residuo_pu.csv
+New load.150QPETR phases=3 model=1 bus=2624 kv=0.38 kw=150 conn=wye yearly=sm211_PQ_150QPETR_2025_150kVA_pu
+
+New loadshape.sm226_PQ_225ACESS_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm226_PQ_225ACESS_2025_225kVA_com_residuo_pu.csv
+New load.225ACESS phases=3 model=1 bus=2632 kv=0.38 kw=225 conn=wye yearly=sm226_PQ_225ACESS_2025_225kVA_pu
+
+New loadshape.sm216_PQ_75CEEMA_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm216_PQ_75CEEMA_2025_75kVA_com_residuo_pu.csv
+New load.75CEEMA phases=3 model=1 bus=2661 kv=0.38 kw=75 conn=wye yearly=sm216_PQ_75CEEMA_2025_75kVA_pu
+
+New loadshape.sm208_PQ_500P17_2025_500kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm208_PQ_500P17_2025_500kVA_com_residuo_pu.csv
+New load.500P17 phases=3 model=1 bus=2725 kv=0.38 kw=500 conn=wye yearly=sm208_PQ_500P17_2025_500kVA_pu
+
+New loadshape.sm005_PQ_150GEOMAT_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm005_PQ_150GEOMAT_2025_150kVA_com_residuo_pu.csv
+New load.150GEOMAT phases=3 model=1 bus=2882 kv=0.38 kw=150 conn=wye yearly=sm005_PQ_150GEOMAT_2025_150kVA_pu
+
+New loadshape.sm006_PQ_1125NIDAL_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm006_PQ_1125NIDAL_2025_112.5kVA_com_residuo_pu.csv
+New load.1125NIDAL phases=3 model=1 bus=2922 kv=0.38 kw=112.5 conn=wye yearly=sm006_PQ_1125NIDAL_2025_112.5kVA_pu
+
+New loadshape.sm222_PQ_1125LETRAS_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm222_PQ_1125LETRAS_2025_112.5kVA_com_residuo_pu.csv
+New load.1125LETRAS phases=3 model=1 bus=2942 kv=0.38 kw=112.5 conn=wye yearly=sm222_PQ_1125LETRAS_2025_112.5kVA_pu
+
+New loadshape.sm001_PQ_225DANCA_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm001_PQ_225DANCA_2025_225kVA_com_residuo_pu.csv
+New load.225DANCA phases=3 model=1 bus=3002 kv=0.38 kw=225 conn=wye yearly=sm001_PQ_225DANCA_2025_225kVA_pu
+
+New loadshape.sm018_PQ_150MUSICA_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm018_PQ_150MUSICA_2025_150kVA_com_residuo_pu.csv
+New load.150MUSICA phases=3 model=1 bus=3042 kv=0.38 kw=150 conn=wye yearly=sm018_PQ_150MUSICA_2025_150kVA_pu
+
+New loadshape.sm204_PQ_1125BIOFLOR_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm204_PQ_1125BIOFLOR_2025_112.5kVA_com_residuo_pu.csv
+New load.1125BIOFLOR phases=3 model=1 bus=3062 kv=0.38 kw=112.5 conn=wye yearly=sm204_PQ_1125BIOFLOR_2025_112.5kVA_pu
+
+New loadshape.sm235_PQ_225PLANET_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm235_PQ_225PLANET_2025_225kVA_com_residuo_pu.csv
+New load.225PLANET phases=3 model=1 bus=3093 kv=0.38 kw=225 conn=wye yearly=sm235_PQ_225PLANET_2025_225kVA_pu
+
+New loadshape.sm013_PQ_150POLI2_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm013_PQ_150POLI2_2025_150kVA_com_residuo_pu.csv
+New load.150POLI2 phases=3 model=1 bus=3202 kv=0.38 kw=150 conn=wye yearly=sm013_PQ_150POLI2_2025_150kVA_pu
+
+New loadshape.sm223_PQ_1125POLI3_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm223_PQ_1125POLI3_2025_112.5kVA_com_residuo_pu.csv
+New load.1125POLI3 phases=3 model=1 bus=3242 kv=0.38 kw=112.5 conn=wye yearly=sm223_PQ_1125POLI3_2025_112.5kVA_pu
+
+New loadshape.sm020_PQ_1125DESTIL_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm020_PQ_1125DESTIL_2025_112.5kVA_com_residuo_pu.csv
+New load.1125DESTIL phases=3 model=1 bus=3262 kv=0.38 kw=112.5 conn=wye yearly=sm020_PQ_1125DESTIL_2025_112.5kVA_pu
+
+New loadshape.sm231_PQ_225COMUN_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm231_PQ_225COMUN_2025_225kVA_com_residuo_pu.csv
+New load.225COMUN phases=3 model=1 bus=3302 kv=0.38 kw=225 conn=wye yearly=sm231_PQ_225COMUN_2025_225kVA_pu
+
+New loadshape.sm038_PQ_225HVU_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm038_PQ_225HVU_2025_225kVA_com_residuo_pu.csv
+New load.225HVU phases=3 model=1 bus=3412 kv=0.38 kw=225 conn=wye yearly=sm038_PQ_225HVU_2025_225kVA_pu
+
+New loadshape.sm015_PQ_225BIOT_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm015_PQ_225BIOT_2025_225kVA_com_residuo_pu.csv
+New load.225BIOT phases=3 model=1 bus=3462 kv=0.38 kw=225 conn=wye yearly=sm015_PQ_225BIOT_2025_225kVA_pu
+
+New loadshape.sm238_PQ_45CETAS_2025_45kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm238_PQ_45CETAS_2025_45kVA_com_residuo_pu.csv
+New load.45CETAS phases=3 model=1 bus=3592 kv=0.38 kw=45 conn=wye yearly=sm238_PQ_45CETAS_2025_45kVA_pu
+
+New loadshape.sm028_PQ_150TAMBO_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm028_PQ_150TAMBO_2025_150kVA_com_residuo_pu.csv
+New load.150TAMBO phases=3 model=1 bus=3722 kv=0.38 kw=150 conn=wye yearly=sm028_PQ_150TAMBO_2025_150kVA_pu
+
+New loadshape.sm206_PQ_1125USINALATIC_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm206_PQ_1125USINALATIC_2025_112.5kVA_com_residuo_pu.csv
+New load.1125USINALATIC phases=3 model=1 bus=3792 kv=0.38 kw=150 conn=wye yearly=sm206_PQ_1125USINALATIC_2025_112.5kVA_pu
+
+New loadshape.sm209_PQ_150LARP_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm209_PQ_150LARP_2025_150kVA_com_residuo_pu.csv
+New load.150LARP phases=3 model=1 bus=3812 kv=0.38 kw=150 conn=wye yearly=sm209_PQ_150LARP_2025_150kVA_pu
+
+New loadshape.sm240_PQ_225MAN_2025_225kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm240_PQ_225MAN_2025_225kVA_com_residuo_pu.csv
+New load.225MAN phases=3 model=1 bus=3872 kv=0.38 kw=225 conn=wye yearly=sm240_PQ_225MAN_2025_225kVA_pu
+
+New loadshape.sm214_PQ_75ENATURAL_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm214_PQ_75ENATURAL_2025_75kVA_com_residuo_pu.csv
+New load.75ENATURAL phases=3 model=1 bus=4002 kv=0.38 kw=75 conn=wye yearly=sm214_PQ_75ENATURAL_2025_75kVA_pu
+
+New loadshape.sm227_PQ_75BOT1_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm227_PQ_75BOT1_2025_75kVA_com_residuo_pu.csv
+New load.75BOT1 phases=3 model=1 bus=4062 kv=0.38 kw=75 conn=wye yearly=sm227_PQ_75BOT1_2025_75kVA_pu
+
+New loadshape.sm228_PQ_75BOT2_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm228_PQ_75BOT2_2025_75kVA_com_residuo_pu.csv
+New load.75BOT2 phases=3 model=1 bus=4092 kv=0.38 kw=75 conn=wye yearly=sm228_PQ_75BOT2_2025_75kVA_pu
+
+New loadshape.sm244_PQ_75COXILHA_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm244_PQ_75COXILHA_2025_75kVA_com_residuo_pu.csv
+New load.75COXILHA phases=3 model=1 bus=4182 kv=0.38 kw=75 conn=wye yearly=sm244_PQ_75COXILHA_2025_75kVA_pu
+
+New loadshape.sm245_PQ_75GALPAO_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm245_PQ_75GALPAO_2025_75kVA_com_residuo_pu.csv
+New load.75GALPAO phases=3 model=1 bus=4762 kv=0.38 kw=75 conn=wye yearly=sm245_PQ_75GALPAO_2025_75kVA_pu
+
+New loadshape.sm221_PQ_150AVIARIO1_2025_150kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm221_PQ_150AVIARIO1_2025_150kVA_com_residuo_pu.csv
+New load.150AVIARIO1 phases=3 model=1 bus=4852 kv=0.38 kw=150 conn=wye yearly=sm221_PQ_150AVIARIO1_2025_150kVA_pu
+
+New loadshape.sm243_PQ_75RACOES_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm243_PQ_75RACOES_2025_75kVA_com_residuo_pu.csv
+New load.75RACOES phases=3 model=1 bus=4892 kv=0.38 kw=75 conn=wye yearly=sm243_PQ_75RACOES_2025_75kVA_pu
+
+New loadshape.sm249_PQ_45AVIARIO2_2025_45kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm249_PQ_45AVIARIO2_2025_45kVA_com_residuo_pu.csv
+New load.45AVIARIO2 phases=3 model=1 bus=4912 kv=0.38 kw=45 conn=wye yearly=sm249_PQ_45AVIARIO2_2025_45kVA_pu
+
+New loadshape.sm207_PQ_1125ZOOTEC_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm207_PQ_1125ZOOTEC_2025_112.5kVA_com_residuo_pu.csv
+New load.1125ZOOTEC phases=3 model=1 bus=4932 kv=0.38 kw=112.5 conn=wye yearly=sm207_PQ_1125ZOOTEC_2025_112.5kVA_pu
+
+New loadshape.sm205_PQ_1125PISCIC_2025_112.5kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm205_PQ_1125PISCIC_2025_112.5kVA_com_residuo_pu.csv
+New load.1125PISCIC phases=3 model=1 bus=5022 kv=0.38 kw=112.5 conn=wye yearly=sm205_PQ_1125PISCIC_2025_112.5kVA_pu
+
+New loadshape.sm248_PQ_75SUINOC_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm248_PQ_75SUINOC_2025_75kVA_com_residuo_pu.csv
+New load.75SUINOC phases=3 model=1 bus=5092 kv=0.38 kw=75 conn=wye yearly=sm248_PQ_75SUINOC_2025_75kVA_pu
+
+New loadshape.sm247_PQ_75POMAR_2025_75kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm247_PQ_75POMAR_2025_75kVA_com_residuo_pu.csv
+New load.75POMAR phases=3 model=1 bus=5152 kv=0.38 kw=75 conn=wye yearly=sm247_PQ_75POMAR_2025_75kVA_pu
+
+New loadshape.sm213_PQ_300BIOINS_2025_300kVA_pu npts=35040 interval=0 PQCSVFile=Cargas_Estimadas_com_residuo_ano_2038\sm213_PQ_300BIOINS_2025_300kVA_com_residuo_pu.csv
+New load.300BIOINS phases=3 model=1 bus=5162 kv=0.38 kw=300 conn=wye yearly=sm213_PQ_300BIOINS_2025_300kVA_pu

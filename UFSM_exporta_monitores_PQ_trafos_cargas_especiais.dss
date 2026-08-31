@@ -1,0 +1,17 @@
+// EXPORTA MONITORES PQ TRANSFORMADORES CARGAS ESPECIAIS
+
+export monitors 45PONTE_PQ
+
+export monitors 75VE1_PQ
+
+export monitors 75VE2_PQ
+
+export monitors 45IRRIGA_PQ
+
+export monitors 30POCO1_PQ
+
+export monitors 45POCO2_PQ
+
+export monitors 45PIVO_PQ
+
+export monitors 1125ANTENA_PQ

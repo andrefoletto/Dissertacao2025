@@ -1,0 +1,7 @@
+Ajuste das cargas para 2038 aplicado com sucesso.
+Ano-base: 2025
+Ano-alvo: 2038
+Taxa anual linear: 0.005000
+Anos considerados: 13
+Fator aplicado: 1.065000
+Arquivos processados nesta pasta: 69

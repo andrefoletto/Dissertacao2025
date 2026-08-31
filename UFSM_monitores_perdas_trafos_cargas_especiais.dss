@@ -1,0 +1,17 @@
+// MONITORES PERDAS TRANSFORMADORES CARGAS ESPECIAIS
+
+New monitor.45PONTE_PERDAS element=transformer.45PONTE terminal=1 mode=9
+
+New monitor.75VE1_PERDAS element=transformer.75VE1 terminal=1 mode=9
+
+New monitor.75VE2_PERDAS element=transformer.75VE2 terminal=1 mode=9
+
+New monitor.45IRRIGA_PERDAS element=transformer.45IRRIGA terminal=1 mode=9
+
+New monitor.30POCO1_PERDAS element=transformer.30POCO1 terminal=1 mode=9
+
+New monitor.45POCO2_PERDAS element=transformer.45POCO2 terminal=1 mode=9
+
+New monitor.45PIVO_PERDAS element=transformer.45PIVO terminal=1 mode=9
+
+New monitor.1125ANTENA_PERDAS element=transformer.1125ANTENA terminal=1 mode=9

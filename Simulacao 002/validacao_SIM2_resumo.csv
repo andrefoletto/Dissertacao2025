@@ -1,0 +1,11 @@
+Grandeza,Metrica,Valor
+P,NMAE,0.000481682
+P,NRMSE,0.000698416
+P,Energia_SIM_kWh,1.568e+07
+P,Energia_RGE_kWh,1.56835e+07
+P,Erro_rel_energia,0.000225472
+Q,NMAE,0.232018
+Q,NRMSE,0.0415531
+Q,Energia_SIM_kVArh,896548
+Q,Energia_RGE_kVArh,1.00175e+06
+Q,Erro_rel_energia,0.10502
